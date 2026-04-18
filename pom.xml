@@ -8,6 +8,10 @@
     <artifactId>cleanCrudParent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
+    <name>cleaCrud-parent</name>
+    <description>A parent pom for all clean crud libraries</description>
+    <url>https://github.com/de-gupta/cleanCrudParent.git</url>
+
     <properties>
         <java.version>25</java.version>
         <maven.compiler.release>${java.version}</maven.compiler.release>
