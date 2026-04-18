@@ -38,6 +38,13 @@
         <maven.central.publishing.plugin.version>0.10.0</maven.central.publishing.plugin.version>
     </properties>
 
+    <scm>
+        <connection>scm:git:ssh://git@github.com/de-gupta/cleanCrudParent.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/de-gupta/cleanCrudParent.git</developerConnection>
+        <url>https://github.com/de-gupta/cleanCrudParent.git</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
