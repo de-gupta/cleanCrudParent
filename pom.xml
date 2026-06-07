@@ -16,8 +16,8 @@
         <maven.compiler.release>${java.version}</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <aletheia.version>0.8.0</aletheia.version>
-        <athena.version>0.5.1</athena.version>
+        <aletheia.version>0.10.0</aletheia.version>
+        <athena.version>0.6.3</athena.version>
         <aegis.version>0.1.1</aegis.version>
 
         <spring.boot.version>3.5.13</spring.boot.version>
