@@ -11,6 +11,9 @@
     <description>A parent pom for all clean crud libraries</description>
     <url>https://github.com/de-gupta/cleanCrudParent.git</url>
 
+<!--    @Deprecated-->
+<!--    has been COMPLETELY SUPERSEDED BY de-gupta-parent. DO NOT USE THIS ANYMORE -->
+
     <properties>
         <java.version>25</java.version>
         <maven.compiler.release>${java.version}</maven.compiler.release>
